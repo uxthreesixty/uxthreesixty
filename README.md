@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wayne Pulford</h1>
-<h3 align="center">A passionate user centered designer, improving people's lives through advocating //Inclusivity //Sustainability through Green UX //Profit //People</h3>
+<h3 align="center">A passionate and experienced user centered designer. Working in fintech on B2B and B2B2C SaaS products and in and healthcare improving people's lives through advocating //Inclusivity //Sustainability through Green UX //Profit //People</h3>
 
 - 🔭 I’m currently working on **NHS England Update Record as a lead researcher, working towards enabling GP practices the ability to auto ingest structured information from external healthcare services**
 
