@@ -27,10 +27,10 @@ I am contracted to NHS England on GP Connect Update Record as a lead researcher.
 </ul>
 
 <h2>Learning & Development</h2>
-🌱 Currently learning **Google UX Certification**
+🌱 Currently learning: Google UX Certification
 
 <h2>Get in touch</h2>
-📫 How to reach me **uxthreesixty@gmail.com** or Call me on +447799 248471
+📫 How to reach me: uxthreesixty@gmail.com or +447799 248471
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
